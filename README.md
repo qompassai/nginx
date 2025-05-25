@@ -7,7 +7,8 @@
 <h3> Qompass AI on Nginx </h3>
 
 ![Repository Views](https://komarev.com/ghpvc/?username=qompassai-nginx)
-  <a href="https://nginx.org/">
+![GitHub all releases](https://img.shields.io/github/downloads/qompassai/nginx/total?style=flat-square)
+<a href="https://nginx.org/">
   <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx">
 </a>
 <br>
