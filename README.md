@@ -28,7 +28,7 @@
   <summary style="font-size: 1.4em; font-weight: bold; padding: 15px; background: #667eea; color: white; border-radius: 10px; cursor: pointer; margin: 10px 0;">
     <strong>
       <img src="https://simpleicons.org/icons/nginx.svg" alt="Nginx" width="32" height="32" style="vertical-align:middle;">
-      How to Use Qompass AI Nginx
+      Qompass AI Nginx Quick Start
     </strong>
   </summary>
   <blockquote style="font-size: 1.2em; line-height: 1.8; padding: 25px; background: #f8f9fa; border-left: 6px solid #667eea; border-radius: 8px; margin: 15px 0; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
